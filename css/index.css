@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+header nav .logo {
+    font-family: "Source Serif Pro", serif;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+}
+header nav .menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    list-style-type: none;
+    font-size: 2rem;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+h2 {
+    color: red ;
+}
+
+h3 {
+    color: coral;
+}
+
+.bicycle-types article img {
+    width: 20%;
+    display: grid;
+    grid-template-rows: max-content; 
+}
+
+.bicycle-types article img {
+border: 1px black;
+}
+
+#prices {
+    border: 1px solid black;
+}
+
+
+
+
+
+
